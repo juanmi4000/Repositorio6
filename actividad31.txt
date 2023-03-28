@@ -1,3 +1,7 @@
 Trabajo actividad actividad31.txt
 Creo varias líneas
 adios
+
+Estoy en la rama principal
+Voy hacer varios grupos
+Adiós Lucas!!
